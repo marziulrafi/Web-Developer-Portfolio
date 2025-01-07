@@ -17,6 +17,7 @@ body {
     font-weight: 700;
     padding: 18px 35px;
     margin-bottom: 20px;
+    cursor: pointer;
 }
 
 .section-title {
